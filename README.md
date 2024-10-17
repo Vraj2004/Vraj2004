@@ -56,8 +56,8 @@ I'm a passionate **Computer Science** the University of Toronto 🏫, focusing o
 ## 💼 Work Experience:
 
 - **Software Engineer Co-op (Ontario Government - MCCSS, OPS)** — Gained hands on experience developing AI prototypes using **Python**, **Langchain**, **Azure**, and **JavaScript**.
-- **Full-Stack Developer (Emoot)** — 
-- **AI Software Engineer (Radical AI)** — 
+- **Full-Stack Developer (Emoot)** — Developed key web pages for the Startersclub campaign using **HTML**, **CSS**, **TypeScript**, and **Firebase**, improving user engagement and overall website performance.
+- **AI Software Engineer (Radical AI)** — Developed open-source AI agent Rex with **Google Cloud**, **Gemini**, **React**, and **Firebase**, enhancing study efficiency and providing interactive educational tools for users
 
 ---
 
