@@ -55,8 +55,8 @@ I'm a passionate **Computer Science** the University of Toronto 🏫, focusing o
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RishiPatel&show_icons=true&theme=radical" alt="Rishi's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishiPatel&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vraj2004&show_icons=true&theme=radical" alt="Vraj's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vraj2004&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
