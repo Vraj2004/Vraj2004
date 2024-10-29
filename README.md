@@ -71,17 +71,16 @@ I'm a passionate **Computer Science** the University of Toronto 🏫, focusing o
 
 ## 📫 Get in Touch:
 
-- **LinkedIn**: 
-- **GitHub**: 
-- **Email**: 
+- **LinkedIn**: https://www.linkedin.com/mynetwork/grow/
+- **Email**: vraj.shah2105@gmail.com
 
 ---
 
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vraj2004&show_icons=true&theme=radical" alt="Vraj's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vraj2004&theme=radical" alt="GitHub Streak"/>
+  <img src="https://komarev.com/ghpvc/?username=Vraj2004&label=Profile%20views&color=0e75b6&style=flat" alt="Vraj's Profile Views"/>
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=default&layout=default&font=default" alt="Quote of the Day"/>
 </p>
 
 ---
