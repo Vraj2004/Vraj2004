@@ -51,6 +51,26 @@ I'm a passionate **Computer Science** the University of Toronto 🏫, focusing o
 
 ## 🛠 Projects & Contributions:
 
+1. **BlockTix**
+   - **Description**: BlockTix is a blockchain-based ticketing platform that leverages **Hardhat**, **Solidity**, **JavaScript**, **React**, **Ethers.js**, and **MetaMask** to ensure secure and verifiable ticket ownership. The app enables transparent transactions, making it easier for users to buy, sell, and verify tickets.
+   - **Impact**: Reduces fraud in ticket exchanges, enhancing trust for event organizers and attendees.
+
+2. **Clubby**
+   - **Description**: Clubby is a startup project designed as an all-in-one solution for club management. Built with **Dart**, this platform offers tools for event management, membership tracking, announcements, and communication, simplifying club operations.
+   - **Impact**: Improves club efficiency and communication, benefiting both members and administrators.
+
+3. **React-Jobs WebApp**
+   - **Description**: A job search application developed with **React** and **TailwindCSS**, featuring search filters for easy job browsing. The app has a clean, responsive design to enhance user experience.
+   - **Impact**: Provides a streamlined job search experience, helping users find suitable opportunities quickly.
+
+4. **Stock Prediction AI**
+   - **Description**: This project uses **Python** and **Jupyter Notebook** to predict stock prices based on historical data with machine learning algorithms, offering insights into market trends for potential investors.
+   - **Impact**: Assists novice investors in making informed stock market decisions using data-driven insights.
+
+5. **DiagnosAI**
+   - **Description**: DiagnosAI is an AI-powered chatbot that provides health feedback based on user symptoms. Developed with **Python**, it offers preliminary health insights and suggests if medical consultation is needed.
+   - **Impact**: Serves as a useful tool for early symptom checking, encouraging timely medical care.
+
 ---
 
 ## 💼 Work Experience:
@@ -63,9 +83,10 @@ I'm a passionate **Computer Science** the University of Toronto 🏫, focusing o
 
 ## 🌱 Currently Learning:
 
-- 
-- 
-- 
+- AI/ML: Developing skills in PyTorch, TensorFlow, and Scikit-Learn to create smarter software with machine learning.
+- Blockchain Technology: Exploring Hardhat, Solidity, and smart contracts to build secure, decentralized app that make an imapct.
+- DevOps Engineering: Practicing Docker, Kubernetes, and CI/CD tools to make app setup and updates smoother.
+- Startups & Entrepreneurship: Learning Lean Startup and Agile techniques to quickly test new ideas and work effectively in teams.
 
 ---
 
