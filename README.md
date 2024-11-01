@@ -54,22 +54,27 @@ I'm a passionate **Computer Science** the University of Toronto 🏫, focusing o
 1. **BlockTix**
    - **Description**: BlockTix is a blockchain-based ticketing platform that leverages **Hardhat**, **Solidity**, **JavaScript**, **React**, **Ethers.js**, and **MetaMask** to ensure secure and verifiable ticket ownership. The app enables transparent transactions, making it easier for users to buy, sell, and verify tickets.
    - **Impact**: Reduces fraud in ticket exchanges, enhancing trust for event organizers and attendees.
+   - **Link**: https://github.com/Vraj2004/BlockTix
 
 2. **Clubby**
    - **Description**: Clubby is a startup project designed as an all-in-one solution for club management. Built with **Dart**, this platform offers tools for event management, membership tracking, announcements, and communication, simplifying club operations.
    - **Impact**: Improves club efficiency and communication, benefiting both members and administrators.
+   -  **Link**: **COMING SOON** (when we launch!)
 
-3. **React-Jobs WebApp**
+3. **SkillMatch**
    - **Description**: A job search application developed with **React** and **TailwindCSS**, featuring search filters for easy job browsing. The app has a clean, responsive design to enhance user experience.
    - **Impact**: Provides a streamlined job search experience, helping users find suitable opportunities quickly.
+   -  **Link**: https://github.com/Vraj2004/SkillMatch
 
 4. **Stock Prediction AI**
    - **Description**: This project uses **Python** and **Jupyter Notebook** to predict stock prices based on historical data with machine learning algorithms, offering insights into market trends for potential investors.
    - **Impact**: Assists novice investors in making informed stock market decisions using data-driven insights.
-
+   - **Link**: https://github.com/Vraj2004/Stock-Prediction-App
+     
 5. **DiagnosAI**
    - **Description**: DiagnosAI is an AI-powered chatbot that provides health feedback based on user symptoms. Developed with **Python**, it offers preliminary health insights and suggests if medical consultation is needed.
    - **Impact**: Serves as a useful tool for early symptom checking, encouraging timely medical care.
+   - **Link**: https://github.com/Vraj2004/DiagnosAI
 
 ---
 
